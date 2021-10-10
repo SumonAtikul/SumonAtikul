@@ -1,15 +1,5 @@
-### Hi there 👋 I'm Md. Atikul Islam Sumon 
+### Hi 👋 I'm Md. Atikul Islam Sumon!
 
-<!--
-**SumonAtikul/SumonAtikul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning Java(OOP)
+- 📫 How to reach me: Gmail - sumonatikul991@gmail.com
 
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning Java 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with 
-- 💬 Ask me about ...
-- 📫 How to reach me: 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
